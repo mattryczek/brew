@@ -34,6 +34,7 @@ cask "android-file-transfer"
 cask "zoomus"
 cask "paragon-ntfs"
 cask "carbon-copy-cloner"
+cask "keybase"
 
 ## MAS ##
 mas "Magnet", id: 441258766
