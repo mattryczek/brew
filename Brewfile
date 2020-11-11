@@ -6,7 +6,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
-## FORMULÆ ##
+## FORMULAE ##
 brew "gh"
 brew "ncdu"
 brew "screenfetch"
@@ -14,6 +14,8 @@ brew "tmux"
 brew "watch"
 brew "wget"
 brew "youtube-dl"
+brew "pngcrush"
+brew "tree"
 
 ## CASKS ##
 cask "bitwarden"
@@ -28,3 +30,12 @@ cask "qlimagesize"
 cask "qlmarkdown"
 cask "qlstephen"
 cask "balenaetcher"
+cask "android-file-transfer"
+cask "zoomus"
+cask "paragon-ntfs"
+cask "carbon-copy-cloner"
+
+## MAS ##
+mas "Magnet", id: 441258766
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "WireGuard", id: 1451685025
