@@ -36,6 +36,7 @@ cask "zoomus"
 cask "paragon-ntfs"
 cask "carbon-copy-cloner"
 cask "keybase"
+cask "appcleaner"
 
 ## MAS ##
 mas "Magnet", id: 441258766
