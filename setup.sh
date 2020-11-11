@@ -8,3 +8,7 @@ brew bundle --file=/tmp/Brewfile
 
 rm /tmp/Brewfile
 rm -rf ~/Library/Caches/Homebrew/downloads
+
+rustup init
+
+rustc --version

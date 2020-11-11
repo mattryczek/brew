@@ -16,6 +16,7 @@ brew "wget"
 brew "youtube-dl"
 brew "pngcrush"
 brew "tree"
+brew "rustup"
 
 ## CASKS ##
 cask "bitwarden"
