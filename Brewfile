@@ -8,18 +8,16 @@ tap "homebrew/core"
 
 ## FORMULAE ##
 brew "gh"
-brew "ncdu"
-brew "screenfetch"
 brew "tmux"
 brew "watch"
 brew "wget"
 brew "youtube-dl"
-brew "pngcrush"
 brew "tree"
-brew "rustup"
+brew "magic-wormhole"
 
 ## CASKS ##
 cask "bitwarden"
+cask "iterm2"
 cask "firefox"
 cask "suspicious-package"
 cask "visual-studio-code"
@@ -37,8 +35,11 @@ cask "paragon-ntfs"
 cask "carbon-copy-cloner"
 cask "keybase"
 cask "appcleaner"
+cask "discord"
 
 ## MAS ##
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "WireGuard", id: 1451685025
+mas "Outlook", id: 985367838
+mas "Word", id: 462054704
