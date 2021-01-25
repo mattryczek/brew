@@ -36,6 +36,7 @@ cask "carbon-copy-cloner"
 cask "keybase"
 cask "appcleaner"
 cask "discord"
+cask "microsoft-teams"
 
 ## MAS ##
 mas "Magnet", id: 441258766
