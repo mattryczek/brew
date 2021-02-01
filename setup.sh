@@ -18,6 +18,7 @@ rm /tmp/Brewfile
 rm -rf ~/Library/Caches/Homebrew/downloads
 brew cleanup -s
 
-# Rust setup
-rustup init
-rustc --version
+# Pull down fix-tid.sh and store /usr/local/bin
+curl -o /usr/local/bin/fix-tid https://gist.githubusercontent.com/mattryczek/d2b01d1d5b354d60e89325e428795245/raw/d7d20ee3a0b7b6a60cfd5a95a24243be46a323a1/fix-tid.sh
+chmod +x /usr/local/bin/fix-tid
+/usr/local/bin/fix-tid

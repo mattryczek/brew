@@ -43,4 +43,3 @@ mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "WireGuard", id: 1451685025
 mas "Outlook", id: 985367838
-mas "Word", id: 462054704
